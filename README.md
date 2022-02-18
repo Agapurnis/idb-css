@@ -35,9 +35,13 @@ Note that some of this behavior may change in the future!
 
 ### Configuration & Custom Builds
 
+(Configuration options outline coming soon!)
+
 Due to the *'seamless'* part of the goal of this project, an effort is made to support a wide variety of environments.
 
-You may not wish to support some of these environments in some cases. For example, by default (installing through a package manager), **you use a build with support for two/three different decorator specifications depending on the given configuration**. You almost certainly won't need that. To prevent the issue of distributing thousands of different builds for this repository, you must build the repository yourself with a certain configuration at buld-time, instead of providing it at runtime.
+You may not wish to support some of these environments in some cases. For example, by default (installing through a package manager), **you use a build with support for two/three different decorator specifications depending on the given configuration**. You almost certainly won't need that. To prevent the issue of distributing thousands of different builds for this repository, you must build the repository yourself with a certain configuration at build-time, instead of providing it at runtime.
+
+A full tutorial on doing this will be available later.
 
 ## I need the documentation.
 
